@@ -1,3 +1,4 @@
+[Discussion Post (created on 11/2/2021 at 0:7)](https://leetcode.com/problems/duplicate-zeros/solution/)  
 <h2>1089. Duplicate Zeros</h2><h3>Easy</h3><hr><div><p>Given a fixed length&nbsp;array <code>arr</code> of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.</p>
 
 <p>Note that elements beyond the length of the original array are not written.</p>
